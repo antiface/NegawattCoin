@@ -1,4 +1,4 @@
 NegawattCoin
 ============
 
-The NegawattCoin: The New Sustainable Technological Vision of an Algorithms-as-a-Service Marketplace
+The NegawattCoin: The New Sustainable Technological Vision Powered by Invisible Forces of Reversible Pneumatic and Fluidic Noise Fields
