@@ -9,3 +9,7 @@ CrackerjackBox
 * It also depends on Mr. CrackerjackBox himself, and whatever he or she is actually doing.
 * In game-theoretic terms, total surveillance is a good thing, it fosters a context of Perfect or Complete Information.
 * Knowing the power and strength of Information Asymmetries over adversaries, these things matter, and something as simple as a CrackerjackBox thought experiment can be quite helpful.
+* Also, the idea could also be of an actual Box, like a LockBox.
+* The persistent question would be:
+    * A) Is it a Box?
+    * B) What kind of Box is it? What is it used for? What is its purpose, its reason for being there?
